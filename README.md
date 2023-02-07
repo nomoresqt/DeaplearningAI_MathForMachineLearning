@@ -1,1 +1,1 @@
-# DeaplearningAI_MathForMachineLearning
+# DeeplearningAI_MathForMachineLearning
